@@ -1,6 +1,8 @@
-  ## Hey, I'm Juan
-
-  #### I'm a ***Full-Stack Developer*** with a lot of curiosity about new technologies, but with a crush on ReactNative ❤️   
+  <div align="center">
+  <h1>Hey, I'm Juan</h1>
+  <h4> I'm a Full-Stack Developer with a lot of curiosity about new technologies</h4> 
+  <h6>but with a crush on ReactNative ❤️ </h6>
+  </div>
   
   ###
 
