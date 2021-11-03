@@ -1,6 +1,7 @@
-  <div align="center">
-  <h1>Hey, I'm Juan</h1>
-  <h4> I'm a Full-Stack Developer with a lot of curiosity about new technologies</h4> 
+###### hoy, leticia?
+<div align="center">
+  <h1>No, I'm Juan</h1>
+  <h4> I'm a Full-Stack Developer with a lot of curiosity about new technologies 🦾 </h4> 
   <h6>but with a crush on ReactNative ❤️ </h6>
   </div>
   
