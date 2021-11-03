@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://c.tenor.com/ztAq2v5K09gAAAAC/the-office-hand.gif">
 <!--
 **juan-alencar/juan-alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
