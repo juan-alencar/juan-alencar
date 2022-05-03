@@ -1,6 +1,6 @@
-###### hoy, leticia?
+
 <div align="center">
-  <h1>No, I'm Juan 😃</h1>
+  <h1>I'm Juan 😃</h1>
   <h4> I'm a Full-Stack Developer 🥵 with a lot of curiosity about new technologies 🦾 </h4> 
   <h6>but with a crush on React ❤️ </h6>
   </div>
