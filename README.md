@@ -46,8 +46,6 @@
   </div>
   
   ##
-  
-  [![Visits Badge](https://badges.pufler.dev/visits/juan-alencar/juan-alencar)](https://badges.pufler.dev)
 
   
   <!--![Jokes Card](https://readme-jokes.vercel.app/api) -->
