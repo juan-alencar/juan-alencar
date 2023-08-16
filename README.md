@@ -1,8 +1,7 @@
 
 <div align="center">
-  <h1>I'm Juan 😃</h1>
-  <h4> I'm a Full-Stack Developer 🥵 with a lot of curiosity about new technologies 🦾 </h4> 
-  <h6>but with a crush on React ❤️ </h6>
+  <h1>Meu nome é Juan Alencar</h1>
+  <h4>Desenvolvedor FullStack e UX Designer</h4> 
   </div>
   
   ###
@@ -17,7 +16,6 @@
     <a href="https://www.linkedin.com/in/juan-alencar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">        </a>
     <a href="mailto:juan.dialencar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://twitter.com/juandmalencar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://instagram.com/juan._alencar"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </div>
 
   ##
