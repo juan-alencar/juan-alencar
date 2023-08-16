@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Meu nome é Juan Alencar</h1>
+  <h1>Juan Alencar</h1>
   <h4>Desenvolvedor FullStack e UX Designer</h4> 
   </div>
   
